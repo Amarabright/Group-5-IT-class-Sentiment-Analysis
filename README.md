@@ -62,22 +62,27 @@ To know the number of media files available in the group, we will have to count 
 
 With a few lines of code, we got the visualizations below:
 
+![medium 7](https://user-images.githubusercontent.com/83390581/204011319-610a778b-f99b-4f8a-8901-8d41e7c99a2a.png)
+![medium 8](https://user-images.githubusercontent.com/83390581/204011424-bcf2aec7-2c9e-41e6-a2e8-d834c0969308.png)
+
+![medium 9](https://user-images.githubusercontent.com/83390581/204011497-1a3aa110-c29d-4f73-be7c-74308cb81969.png)
+
 
 As a lover of “no-code or low-code”, I decided to use PowerBI and Excel to help those who do not know Python, so they can replicate this project for any Whatsapp chat Analysis.
+![Uploading medium 3.png…]()
 
-
-![medium 6](https://user-images.githubusercontent.com/83390581/203865609-6634a35b-65f1-4e74-bc7d-af348ea0a5fd.png)
 
 Next Step: Transform this data into rows and columns. This is done with the python codes above and then converted into an excel file as seen below:
 
-![medium 7](https://user-images.githubusercontent.com/83390581/203865617-d9951f5d-392f-4461-85a9-ce1712740a60.png)
+![medium 5](https://user-images.githubusercontent.com/83390581/204013765-b1341828-d154-4a6a-85c1-65588eb82d11.png)
 
-A little transformation was done in Excel to change the Month column to Text and also the Day column to Days of the week. This was done using the TEXT FUNCTION in Excel. We can see below:
+A little transformation was done in Excel to change the Month column to Text and als55555to the Day column to Days of the week. This was done using the TEXT FUNCTION in Excel. We can see below:
 
-![medium 8](https://user-images.githubusercontent.com/83390581/203865630-f1151c46-194a-47f0-bd61-90f7a70356fb.png)
+![medium 6](https://user-images.githubusercontent.com/83390581/204013790-24783327-f31d-4434-a2ae-99d3f4f592b8.png)
+
 
 After this, I imported the data into PowerBI and began the analysis. The following were observed:
-![medium 9](https://user-images.githubusercontent.com/83390581/203865637-81ae3f9c-a184-4a92-9a04-605053901068.png)
+
 
 
 ![GROUP 5 IT SUPPORT REPORT-1](https://user-images.githubusercontent.com/83390581/203865995-5a8da555-8ab3-4967-ad76-d76eaa04d2dd.jpg)
@@ -107,7 +112,7 @@ After this, I imported the data into PowerBI and began the analysis. The followi
 
 10. The most active time in the group is 3:10 pm, followed by 9:40 pm. Meaning that the period within this time range promises to be a great window to receive responses when questions are dropped.
 
-Click the link to view the interactive report that shows the analysis and findings above.
+Click the link to view the [interactive report](https://app.powerbi.com/view?r=eyJrIjoiMmYxNjhlNDItNGE1Ni00ZDdlLTg4YmUtNWQ0MGNjYTc3NjNjIiwidCI6IjM0ODhhMWU5LTQwNmYtNGMzNS04Yjc0LTkyOGUzNDM5Yzc1MCJ9&pageName=ReportSection) that shows the analysis and findings above.
 
 
 ## Summary:
@@ -117,11 +122,8 @@ With the findings from this analysis, I am certain that a lot of people will get
 
 Finally, Thank you for spending time reading this. It means a lot to me.
 
-Take care of yourself, Till my next article.
+Take care of yourself, Till my next project.
 
-Cheers!
-
-Author: I am a Data Analyst and Data Story-Teller, I am open to collaborating with you on data-related projects, gigs, events and hackathons. Feel free to connect with me on Linkedin and Twitter.
 
 
 
